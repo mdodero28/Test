@@ -1,0 +1,19 @@
+c:\users\nsequeira\source\repos\Test_Sabado\Test_Sabado\bin\Debug\Test_Sabado.exe.config
+c:\users\nsequeira\source\repos\Test_Sabado\Test_Sabado\bin\Debug\Test_Sabado.exe
+c:\users\nsequeira\source\repos\Test_Sabado\Test_Sabado\bin\Debug\Test_Sabado.pdb
+c:\users\nsequeira\source\repos\Test_Sabado\Test_Sabado\obj\Debug\Test_Sabado.TestSabado.resources
+c:\users\nsequeira\source\repos\Test_Sabado\Test_Sabado\obj\Debug\Test_Sabado.Properties.Resources.resources
+c:\users\nsequeira\source\repos\Test_Sabado\Test_Sabado\obj\Debug\Test_Sabado.csproj.GenerateResource.cache
+c:\users\nsequeira\source\repos\Test_Sabado\Test_Sabado\obj\Debug\Test_Sabado.csproj.CoreCompileInputs.cache
+c:\users\nsequeira\source\repos\Test_Sabado\Test_Sabado\obj\Debug\Test_Sabado.exe
+c:\users\nsequeira\source\repos\Test_Sabado\Test_Sabado\obj\Debug\Test_Sabado.pdb
+C:\Users\Mónica Dodero\Desktop\Test_Sabado\Test_Sabado\Test_Sabado\bin\Debug\Test_Sabado.exe.config
+C:\Users\Mónica Dodero\Desktop\Test_Sabado\Test_Sabado\Test_Sabado\bin\Debug\Test_Sabado.exe
+C:\Users\Mónica Dodero\Desktop\Test_Sabado\Test_Sabado\Test_Sabado\bin\Debug\Test_Sabado.pdb
+C:\Users\Mónica Dodero\Desktop\Test_Sabado\Test_Sabado\Test_Sabado\obj\Debug\Test_Sabado.csprojAssemblyReference.cache
+C:\Users\Mónica Dodero\Desktop\Test_Sabado\Test_Sabado\Test_Sabado\obj\Debug\Test_Sabado.TestSabado.resources
+C:\Users\Mónica Dodero\Desktop\Test_Sabado\Test_Sabado\Test_Sabado\obj\Debug\Test_Sabado.Properties.Resources.resources
+C:\Users\Mónica Dodero\Desktop\Test_Sabado\Test_Sabado\Test_Sabado\obj\Debug\Test_Sabado.csproj.GenerateResource.cache
+C:\Users\Mónica Dodero\Desktop\Test_Sabado\Test_Sabado\Test_Sabado\obj\Debug\Test_Sabado.csproj.CoreCompileInputs.cache
+C:\Users\Mónica Dodero\Desktop\Test_Sabado\Test_Sabado\Test_Sabado\obj\Debug\Test_Sabado.exe
+C:\Users\Mónica Dodero\Desktop\Test_Sabado\Test_Sabado\Test_Sabado\obj\Debug\Test_Sabado.pdb
